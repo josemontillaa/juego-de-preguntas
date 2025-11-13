@@ -27,7 +27,7 @@ const BANCO_PREGUNTAS = [
     correcta: 1,
   },
 {
-    texto: "¿Cual es el jugador de futbol con goles mas anotados en toda su carrera?",
+    texto: "¿Cuál es el jugador de futbol con más goles en toda la historia?",
     opciones: ["Messi", "Zlatan ibrahimovic", "Cristiano ronaldo", "Neymar"],
     correcta: 2,
   },
